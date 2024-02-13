@@ -1,4 +1,4 @@
-package ch04.sec01;
+package ch04.sec02;
 
 public class IfNestedExample {
     public static void main(String[] args) {
